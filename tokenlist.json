@@ -1,0 +1,19 @@
+{
+  "name": "Rehab Token List",
+  "timestamp": "2026-03-17T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xA3D9B25c2aEE7B03451f0B2cb8Ca5b316b65745e",
+      "name": "Tether usd",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    }
+  ]
+}

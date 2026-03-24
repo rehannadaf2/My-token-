@@ -1,5 +1,7 @@
-{
-  "name": "Rehab Token List",
+
+  "name": "
+Binance peg usd (MTK)
+",
   "timestamp": "2026-03-17T00:00:00+00:00",
   "version": {
     "major": 1,
@@ -9,7 +11,7 @@
   "tokens": [
     {
       "chainId": 11155111,
-      "address": "0xA3D9B25c2aEE7B03451f0B2cb8Ca5b316b65745e",
+      "address": "0x41fb1F7165E5CD69e786B016742EB2f3402ff717",
       "name": "Tether usd",
       "symbol": "USDT",
       "decimals": 18,
